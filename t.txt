@@ -1,0 +1,10 @@
+if(x==4):
+        x=3
+        if(x==7):
+               x=2
+        elif(x==7): 
+               x=7
+        else:
+             x=3
+else :
+    x=5
